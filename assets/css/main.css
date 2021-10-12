@@ -1,4 +1,10 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    text-rendering: optimizeLegibility
+  font-family: 'Roboto', sans-serif;
+  text-rendering: optimizeLegibility
+}
+
+p {
+  font-weight: 300;
+  font-size: 1.1rem;
+  line-height: 1.8;
 }
